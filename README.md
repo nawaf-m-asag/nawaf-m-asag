@@ -6,5 +6,8 @@
 <br />
 
 Hi, I'm nawaf m asag , a  fullstack web developer from Yemen.
-fu
+
+
+(https://github-readme-stats.vercel.app/api?username=nawaf-m-asag&show_icons=true&theme=radical)
+
 
